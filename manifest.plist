@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://115.28.91.35:8080/echowall/packages/EchoWall.ipa</string>
+<string>http://echowall.oss-cn-qingdao.aliyuncs.com/packages/EchoWall.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
